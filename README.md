@@ -41,7 +41,7 @@ from text_analyzer import load_data
 file_path = 'path/to/your/file.txt'
 data = load_data(file_path)
 ```
-
+### Note: Ensure that the first line of the Amharic text file is “Amharic” and the first line of the Tigrigna text file is “Tigregna”.
 ## Cleaning Data
 ### To clean the text data by removing everything except for spaces and word characters:
 ```
