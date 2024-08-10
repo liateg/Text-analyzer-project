@@ -8,7 +8,7 @@ To install and set up the project, follow these steps:
 
 ### Clone the repository:
 ```
-git clone https://github.com/liateg/Text-analyzer-project/.git
+git clone https://github.com/liateg/Text-analyzer-project.git
 cd Text-analyzer-project
 ```
 
