@@ -29,7 +29,7 @@ nltk.download('stopwords')
 
 ```
 Add Amharic and Tigrigna stopwords files: NLTK does not natively support Amharic and Tigrigna stopwords. To use these languages, you need to add custom stopword files to the NLTK data path.
-Save the Files:**amharic** and **teigiregna** in this repository in the` nltk_data/corpora/stopwords` directory. If this directory does not exist, you can create it.
+Save the Files: `amharic` and `tigregna` in this repository in the` nltk_data/corpora/stopwords` directory. If this directory does not exist, you can create it.
 
 ## Usage
 ### Here’s how you can use the various functions in this project:
