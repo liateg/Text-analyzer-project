@@ -88,3 +88,21 @@ overlapping_words = get_overlapping_words(word_count1, word_count2)
 from text_analyzer import extract_alphabets
 alphabets = extract_alphabets(word_count)
 ```
+## Dependencies
+### This project depends on the following libraries:
+
+* pandas
+* nltk
+* re
+* os
+## Contributing
+### If you would like to contribute to this project, please follow these guidelines:
+
+### Fork the repository.
+Create a new branch (`git checkout -b feature-branch`).
+### Make your changes.
+Commit your changes (`git commit -m 'Add some feature' `).
+Push to the branch (`git push origin feature-branch`).
+### Open a pull request.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
