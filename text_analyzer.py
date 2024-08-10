@@ -161,8 +161,8 @@ def count_alphabet_frequency(alphabets):
     return counter
 
 # Load the data
-dfa = load_data('C:\\Users\\Liya\\Desktop\\5k\\Project\\Amharic.txt')
-dft = load_data('C:\\Users\\Liya\\Desktop\\5k\\Project\\Tegrigna.txt')
+dfa = load_data('.\Amharic.txt')
+dft = load_data('.\Tegrigna.txt')
 
 # Clean the data
 dfa = clean_data(dfa, "Amharic")
