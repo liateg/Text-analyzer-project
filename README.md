@@ -95,7 +95,7 @@ alphabets = extract_alphabets(word_count)
 * nltk
 * re
 * os
-## Recomendation
+## Recommendation
 In future work,we consider extending our analysis to other related languages using multilingual models. Transfer learning from large-scale language models can enhance performance, especially with limited labeled data. Explore named entity recognition (NER) and dialect identification. Phonetic transcription tools can aid in phoneme-level analysis. Collect more labeled data through crowdsourcing. Document best practices, collaborate with linguists, and continually analyze model errors to refine your approach.
 ## Contributing
 ### If you would like to contribute to this project, please follow these guidelines:
