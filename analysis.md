@@ -34,11 +34,11 @@ This section presents the quantitative findings from the text analysis:
 
 ## Overlapping Words
 - **Common Words**: The number of overlapping words between the Amharic and Tigrigna datasets is: `74`, `3.6399409739301523%`
-- The overlapped words can be seen in the `Sample_output` in this repository.
+- The overlapped words can be seen in the `Output.doc` in this repository.
   
 ## Overlapping Alphabet
 - **Common Alphabet**: The number of overlapping alphabet between the Amharic and Tigrigna datasets is: `143`,`65.29680365296804%`
-- The overlapped alphabet can be seen in the `Sample_output` in this repository.
+- The overlapped alphabet can be seen in the `Output.doc` in this repository.
 ## Phonem level analysis
 - **Combined Phonem(character)** overlap in percentage is: `75.52083333333334%`
 - **Phonem(character)** overlap in percentage is: `100.0%` ,this is because both langueage use same characters with subtle difference
